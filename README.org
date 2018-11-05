@@ -1,0 +1,34 @@
+
+* sparse-correspondence-analysis
+
+Correspondence Analysis(CA) is  principal component analysis (PCA) of categorical data.
+
+This project provides CA optimized for sparse matrix.
+
+To compare existing method(Orange lib) with this Sparse CA, you can execute demo.sh.
+#+BEGIN_SRC bash
+bash  demo.sh
+#+END_SRC
+
+
+
+You can find more detail description about CA in
+https://github.com/MaxHalford/prince#correspondence-analysis-ca
+
+
+* license
+
+Author: Hirotaka Niitsuma
+This code can use for only self evaluation.
+Cannot use this code for commercial and academic.
+
+**  pantent pending
+  https://patentscope2.wipo.int/search/ja/detail.jsf?docId=JP225380312
+  Japan patent office:patent number 2017-007741
+
+
+
+
+* Requirements
+
+In order to evaluate memory requirement, you need insall /usr/bin/time
