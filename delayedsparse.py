@@ -3,8 +3,8 @@
 # Author: Hirotaka Niitsuma
 # @2018 Hirotaka Niirtsuma
 #
-# This code can use for only self evaluation.
-# Cannot use this code for commercial and academic.
+# You can use this code olny for self evaluation.
+# Cannot use this code for commercial and academical use.
 # pantent pending
 #  https://patentscope2.wipo.int/search/ja/detail.jsf?docId=JP225380312
 #  Japan patent office patent number 2017-007741

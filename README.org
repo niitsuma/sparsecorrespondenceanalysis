@@ -22,9 +22,8 @@ Author: Hirotaka Niitsuma.
 
 @2018 Hirotaka Niirtsuma.
 
-This code can use for only self evaluation.
-
-Cannot use this code for commercial and academic.
+You can use these codes olny for self evaluation.
+Cannot use these codes for commercial and academical use.
 
 **  pantent pending
   https://patentscope2.wipo.int/search/ja/detail.jsf?docId=JP225380312
@@ -32,8 +31,10 @@ Cannot use this code for commercial and academic.
   Japan patent office:patent number 2017-007741
 
 
-
-
 * Requirements
+
+#+BEGIN_SRC bash
+pip install -U sklearn Orange
+#+END_SRC
 
 In order to evaluate memory requirement, you need insall /usr/bin/time
