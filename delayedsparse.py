@@ -1,6 +1,7 @@
 
 
 # Author: Hirotaka Niitsuma
+# @2018 Hirotaka Niirtsuma
 #
 # This code can use for only self evaluation.
 # Cannot use this code for commercial and academic.
@@ -9,7 +10,6 @@
 #  Japan patent office patent number 2017-007741
 
 
-#import copy
 
 from scipy.sparse import csr_matrix,csc_matrix,lil_matrix,issparse,coo_matrix
 

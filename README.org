@@ -1,7 +1,7 @@
 
 * sparse-correspondence-analysis
 
-Correspondence Analysis(CA) is  principal component analysis (PCA) of categorical data.
+Correspondence Analysis(CA) is principal component analysis (PCA) of categorical data.
 
 This project provides CA optimized for sparse matrix.
 
@@ -12,14 +12,18 @@ bash  demo.sh
 
 
 
-You can find more detail description about CA in
+You can find more general description about CA in
 https://github.com/MaxHalford/prince#correspondence-analysis-ca
 
 
-* license
+* License
 
-Author: Hirotaka Niitsuma
+Author: Hirotaka Niitsuma.
+
+@2018 Hirotaka Niirtsuma.
+
 This code can use for only self evaluation.
+
 Cannot use this code for commercial and academic.
 
 **  pantent pending

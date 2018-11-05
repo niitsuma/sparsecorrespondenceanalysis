@@ -1,5 +1,6 @@
 
 # Author: Hirotaka Niitsuma
+# @2018 Hirotaka Niirtsuma
 #
 # This code can use for only self evaluation.
 # Cannot use this code for commercial and academic.
