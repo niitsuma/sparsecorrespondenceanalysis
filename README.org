@@ -1,4 +1,6 @@
 
+This project move  to https://github.com/niitsuma/delayedsparse
+
 * sparse-correspondence-analysis
 
 Correspondence Analysis(CA) is principal component analysis (PCA) of categorical data.
